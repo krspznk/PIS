@@ -1,0 +1,48 @@
+C:\OwnWorkSpace\MyProjects\PISLAB9\Lab9\Lab9MVVM\bin\Debug\net6.0-windows\Lab9MVVM.exe
+C:\OwnWorkSpace\MyProjects\PISLAB9\Lab9\Lab9MVVM\bin\Debug\net6.0-windows\Lab9MVVM.deps.json
+C:\OwnWorkSpace\MyProjects\PISLAB9\Lab9\Lab9MVVM\bin\Debug\net6.0-windows\Lab9MVVM.runtimeconfig.json
+C:\OwnWorkSpace\MyProjects\PISLAB9\Lab9\Lab9MVVM\bin\Debug\net6.0-windows\Lab9MVVM.dll
+C:\OwnWorkSpace\MyProjects\PISLAB9\Lab9\Lab9MVVM\bin\Debug\net6.0-windows\Lab9MVVM.pdb
+C:\OwnWorkSpace\MyProjects\PISLAB9\Lab9\Lab9MVVM\bin\Debug\net6.0-windows\Lab9.Domain.dll
+C:\OwnWorkSpace\MyProjects\PISLAB9\Lab9\Lab9MVVM\bin\Debug\net6.0-windows\Lab9.Domain.pdb
+C:\OwnWorkSpace\MyProjects\PISLAB9\Lab9\Lab9MVVM\obj\Debug\net6.0-windows\Lab9MVVM.csproj.AssemblyReference.cache
+C:\OwnWorkSpace\MyProjects\PISLAB9\Lab9\Lab9MVVM\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\OwnWorkSpace\MyProjects\PISLAB9\Lab9\Lab9MVVM\obj\Debug\net6.0-windows\App.g.cs
+C:\OwnWorkSpace\MyProjects\PISLAB9\Lab9\Lab9MVVM\obj\Debug\net6.0-windows\Lab9MVVM_MarkupCompile.cache
+C:\OwnWorkSpace\MyProjects\PISLAB9\Lab9\Lab9MVVM\obj\Debug\net6.0-windows\Lab9MVVM_MarkupCompile.lref
+C:\OwnWorkSpace\MyProjects\PISLAB9\Lab9\Lab9MVVM\obj\Debug\net6.0-windows\MainWindow.baml
+C:\OwnWorkSpace\MyProjects\PISLAB9\Lab9\Lab9MVVM\obj\Debug\net6.0-windows\Lab9MVVM.g.resources
+C:\OwnWorkSpace\MyProjects\PISLAB9\Lab9\Lab9MVVM\obj\Debug\net6.0-windows\Lab9MVVM.GeneratedMSBuildEditorConfig.editorconfig
+C:\OwnWorkSpace\MyProjects\PISLAB9\Lab9\Lab9MVVM\obj\Debug\net6.0-windows\Lab9MVVM.AssemblyInfoInputs.cache
+C:\OwnWorkSpace\MyProjects\PISLAB9\Lab9\Lab9MVVM\obj\Debug\net6.0-windows\Lab9MVVM.AssemblyInfo.cs
+C:\OwnWorkSpace\MyProjects\PISLAB9\Lab9\Lab9MVVM\obj\Debug\net6.0-windows\Lab9MVVM.csproj.CoreCompileInputs.cache
+C:\OwnWorkSpace\MyProjects\PISLAB9\Lab9\Lab9MVVM\obj\Debug\net6.0-windows\Lab9MVVM.csproj.CopyComplete
+C:\OwnWorkSpace\MyProjects\PISLAB9\Lab9\Lab9MVVM\obj\Debug\net6.0-windows\Lab9MVVM.dll
+C:\OwnWorkSpace\MyProjects\PISLAB9\Lab9\Lab9MVVM\obj\Debug\net6.0-windows\refint\Lab9MVVM.dll
+C:\OwnWorkSpace\MyProjects\PISLAB9\Lab9\Lab9MVVM\obj\Debug\net6.0-windows\Lab9MVVM.pdb
+C:\OwnWorkSpace\MyProjects\PISLAB9\Lab9\Lab9MVVM\obj\Debug\net6.0-windows\Lab9MVVM.genruntimeconfig.cache
+C:\OwnWorkSpace\MyProjects\PISLAB9\Lab9\Lab9MVVM\obj\Debug\net6.0-windows\ref\Lab9MVVM.dll
+C:\Users\pozny\Downloads\Lab9 (2)\Lab9\Lab9MVVM\obj\Debug\net6.0-windows\Lab9MVVM.csproj.AssemblyReference.cache
+C:\Users\pozny\Downloads\Lab9 (2)\Lab9\Lab9MVVM\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\pozny\Downloads\Lab9 (2)\Lab9\Lab9MVVM\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\pozny\Downloads\Lab9 (2)\Lab9\Lab9MVVM\obj\Debug\net6.0-windows\Lab9MVVM_MarkupCompile.cache
+C:\Users\pozny\Downloads\Lab9 (2)\Lab9\Lab9MVVM\obj\Debug\net6.0-windows\Lab9MVVM_MarkupCompile.lref
+C:\Users\pozny\Downloads\Lab9 (2)\Lab9\Lab9MVVM\obj\Debug\net6.0-windows\Lab9MVVM.dll
+C:\Users\pozny\Downloads\Lab9 (2)\Lab9\Lab9MVVM\obj\Debug\net6.0-windows\refint\Lab9MVVM.dll
+C:\Users\pozny\Downloads\Lab9 (2)\Lab9\Lab9MVVM\obj\Debug\net6.0-windows\Lab9MVVM.pdb
+C:\Users\pozny\Downloads\Lab9 (2)\Lab9\Lab9MVVM\bin\Debug\net6.0-windows\Lab9MVVM.exe
+C:\Users\pozny\Downloads\Lab9 (2)\Lab9\Lab9MVVM\bin\Debug\net6.0-windows\Lab9MVVM.deps.json
+C:\Users\pozny\Downloads\Lab9 (2)\Lab9\Lab9MVVM\bin\Debug\net6.0-windows\Lab9MVVM.runtimeconfig.json
+C:\Users\pozny\Downloads\Lab9 (2)\Lab9\Lab9MVVM\bin\Debug\net6.0-windows\Lab9MVVM.dll
+C:\Users\pozny\Downloads\Lab9 (2)\Lab9\Lab9MVVM\bin\Debug\net6.0-windows\Lab9MVVM.pdb
+C:\Users\pozny\Downloads\Lab9 (2)\Lab9\Lab9MVVM\bin\Debug\net6.0-windows\Lab9.Domain.dll
+C:\Users\pozny\Downloads\Lab9 (2)\Lab9\Lab9MVVM\bin\Debug\net6.0-windows\Lab9.Domain.pdb
+C:\Users\pozny\Downloads\Lab9 (2)\Lab9\Lab9MVVM\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\pozny\Downloads\Lab9 (2)\Lab9\Lab9MVVM\obj\Debug\net6.0-windows\Lab9MVVM.g.resources
+C:\Users\pozny\Downloads\Lab9 (2)\Lab9\Lab9MVVM\obj\Debug\net6.0-windows\Lab9MVVM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pozny\Downloads\Lab9 (2)\Lab9\Lab9MVVM\obj\Debug\net6.0-windows\Lab9MVVM.AssemblyInfoInputs.cache
+C:\Users\pozny\Downloads\Lab9 (2)\Lab9\Lab9MVVM\obj\Debug\net6.0-windows\Lab9MVVM.AssemblyInfo.cs
+C:\Users\pozny\Downloads\Lab9 (2)\Lab9\Lab9MVVM\obj\Debug\net6.0-windows\Lab9MVVM.csproj.CoreCompileInputs.cache
+C:\Users\pozny\Downloads\Lab9 (2)\Lab9\Lab9MVVM\obj\Debug\net6.0-windows\Lab9MVVM.csproj.CopyComplete
+C:\Users\pozny\Downloads\Lab9 (2)\Lab9\Lab9MVVM\obj\Debug\net6.0-windows\Lab9MVVM.genruntimeconfig.cache
+C:\Users\pozny\Downloads\Lab9 (2)\Lab9\Lab9MVVM\obj\Debug\net6.0-windows\ref\Lab9MVVM.dll

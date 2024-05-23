@@ -1,0 +1,40 @@
+C:\OwnWorkSpace\MyProjects\PISLAB9\Lab9\Lab9MVP\bin\Debug\net6.0-windows\Lab9MVP.exe
+C:\OwnWorkSpace\MyProjects\PISLAB9\Lab9\Lab9MVP\bin\Debug\net6.0-windows\Lab9MVP.deps.json
+C:\OwnWorkSpace\MyProjects\PISLAB9\Lab9\Lab9MVP\bin\Debug\net6.0-windows\Lab9MVP.runtimeconfig.json
+C:\OwnWorkSpace\MyProjects\PISLAB9\Lab9\Lab9MVP\bin\Debug\net6.0-windows\Lab9MVP.dll
+C:\OwnWorkSpace\MyProjects\PISLAB9\Lab9\Lab9MVP\bin\Debug\net6.0-windows\Lab9MVP.pdb
+C:\OwnWorkSpace\MyProjects\PISLAB9\Lab9\Lab9MVP\bin\Debug\net6.0-windows\Lab9.Domain.dll
+C:\OwnWorkSpace\MyProjects\PISLAB9\Lab9\Lab9MVP\bin\Debug\net6.0-windows\Lab9.Domain.pdb
+C:\OwnWorkSpace\MyProjects\PISLAB9\Lab9\Lab9MVP\obj\Debug\net6.0-windows\Lab9MVP.csproj.AssemblyReference.cache
+C:\OwnWorkSpace\MyProjects\PISLAB9\Lab9\Lab9MVP\obj\Debug\net6.0-windows\Lab9MVP.Form1.resources
+C:\OwnWorkSpace\MyProjects\PISLAB9\Lab9\Lab9MVP\obj\Debug\net6.0-windows\Lab9MVP.csproj.GenerateResource.cache
+C:\OwnWorkSpace\MyProjects\PISLAB9\Lab9\Lab9MVP\obj\Debug\net6.0-windows\Lab9MVP.GeneratedMSBuildEditorConfig.editorconfig
+C:\OwnWorkSpace\MyProjects\PISLAB9\Lab9\Lab9MVP\obj\Debug\net6.0-windows\Lab9MVP.AssemblyInfoInputs.cache
+C:\OwnWorkSpace\MyProjects\PISLAB9\Lab9\Lab9MVP\obj\Debug\net6.0-windows\Lab9MVP.AssemblyInfo.cs
+C:\OwnWorkSpace\MyProjects\PISLAB9\Lab9\Lab9MVP\obj\Debug\net6.0-windows\Lab9MVP.csproj.CoreCompileInputs.cache
+C:\OwnWorkSpace\MyProjects\PISLAB9\Lab9\Lab9MVP\obj\Debug\net6.0-windows\Lab9MVP.csproj.CopyComplete
+C:\OwnWorkSpace\MyProjects\PISLAB9\Lab9\Lab9MVP\obj\Debug\net6.0-windows\Lab9MVP.dll
+C:\OwnWorkSpace\MyProjects\PISLAB9\Lab9\Lab9MVP\obj\Debug\net6.0-windows\refint\Lab9MVP.dll
+C:\OwnWorkSpace\MyProjects\PISLAB9\Lab9\Lab9MVP\obj\Debug\net6.0-windows\Lab9MVP.pdb
+C:\OwnWorkSpace\MyProjects\PISLAB9\Lab9\Lab9MVP\obj\Debug\net6.0-windows\Lab9MVP.genruntimeconfig.cache
+C:\OwnWorkSpace\MyProjects\PISLAB9\Lab9\Lab9MVP\obj\Debug\net6.0-windows\ref\Lab9MVP.dll
+C:\Users\pozny\Downloads\Lab9 (2)\Lab9\Lab9MVP\bin\Debug\net6.0-windows\Lab9MVP.exe
+C:\Users\pozny\Downloads\Lab9 (2)\Lab9\Lab9MVP\bin\Debug\net6.0-windows\Lab9MVP.deps.json
+C:\Users\pozny\Downloads\Lab9 (2)\Lab9\Lab9MVP\bin\Debug\net6.0-windows\Lab9MVP.runtimeconfig.json
+C:\Users\pozny\Downloads\Lab9 (2)\Lab9\Lab9MVP\bin\Debug\net6.0-windows\Lab9MVP.dll
+C:\Users\pozny\Downloads\Lab9 (2)\Lab9\Lab9MVP\bin\Debug\net6.0-windows\Lab9MVP.pdb
+C:\Users\pozny\Downloads\Lab9 (2)\Lab9\Lab9MVP\bin\Debug\net6.0-windows\Lab9.Domain.dll
+C:\Users\pozny\Downloads\Lab9 (2)\Lab9\Lab9MVP\bin\Debug\net6.0-windows\Lab9.Domain.pdb
+C:\Users\pozny\Downloads\Lab9 (2)\Lab9\Lab9MVP\obj\Debug\net6.0-windows\Lab9MVP.csproj.AssemblyReference.cache
+C:\Users\pozny\Downloads\Lab9 (2)\Lab9\Lab9MVP\obj\Debug\net6.0-windows\Lab9MVP.Form1.resources
+C:\Users\pozny\Downloads\Lab9 (2)\Lab9\Lab9MVP\obj\Debug\net6.0-windows\Lab9MVP.csproj.GenerateResource.cache
+C:\Users\pozny\Downloads\Lab9 (2)\Lab9\Lab9MVP\obj\Debug\net6.0-windows\Lab9MVP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pozny\Downloads\Lab9 (2)\Lab9\Lab9MVP\obj\Debug\net6.0-windows\Lab9MVP.AssemblyInfoInputs.cache
+C:\Users\pozny\Downloads\Lab9 (2)\Lab9\Lab9MVP\obj\Debug\net6.0-windows\Lab9MVP.AssemblyInfo.cs
+C:\Users\pozny\Downloads\Lab9 (2)\Lab9\Lab9MVP\obj\Debug\net6.0-windows\Lab9MVP.csproj.CoreCompileInputs.cache
+C:\Users\pozny\Downloads\Lab9 (2)\Lab9\Lab9MVP\obj\Debug\net6.0-windows\Lab9MVP.csproj.CopyComplete
+C:\Users\pozny\Downloads\Lab9 (2)\Lab9\Lab9MVP\obj\Debug\net6.0-windows\Lab9MVP.dll
+C:\Users\pozny\Downloads\Lab9 (2)\Lab9\Lab9MVP\obj\Debug\net6.0-windows\refint\Lab9MVP.dll
+C:\Users\pozny\Downloads\Lab9 (2)\Lab9\Lab9MVP\obj\Debug\net6.0-windows\Lab9MVP.pdb
+C:\Users\pozny\Downloads\Lab9 (2)\Lab9\Lab9MVP\obj\Debug\net6.0-windows\Lab9MVP.genruntimeconfig.cache
+C:\Users\pozny\Downloads\Lab9 (2)\Lab9\Lab9MVP\obj\Debug\net6.0-windows\ref\Lab9MVP.dll
